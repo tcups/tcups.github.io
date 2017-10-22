@@ -1,0 +1,25 @@
+body{/*background-attachment:fixed;
+height:100%;
+background-image:linear-gradient(cadetblue,white);*/
+background:url("../imgs/travel-022.jpg") no-repeat center center fixed;
+background-size:cover;
+}
+
+.navbar-brand.tooba-title{color:white;
+}
+
+.nav-item .nav-link.menu-item{color: white;
+font-size: 20px;}
+
+
+
+.text-center.title-text{ font-size: 80px; /*text-align: center;*/ 
+	width:400px;
+	margin:0px auto;
+	font-family: 'Permanent Marker', cursive;
+	color: white;
+	display:block;
+}
+/*.vertical-center{display:flex;
+align-items: center;
+height: 90vh}*/
