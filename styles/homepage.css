@@ -13,9 +13,9 @@ font-size: 20px;}
 
 
 
-.text-center.title-text{ font-size: 80px; /*text-align: center;*/ 
+.text-center.title-text{ font-size: 50px; /*text-align: center;*/ 
 	width:400px;
-	margin:0px auto;
+	margin: 0px auto;
 	font-family: 'Permanent Marker', cursive;
 	color: white;
 	display:block;
